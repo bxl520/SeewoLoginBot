@@ -1,0 +1,2 @@
+# SeewoLoginBot
+使用python模拟鼠标点击登录希沃白板账号
